@@ -25,3 +25,6 @@ El presente sistema consituye una herramienta que el personal de salud capacitad
 El presente proyecto se elaboró siguiendo la metodología de Design Thinking para la definición del problema y VDI2225 para el prototipado del sistema. Dicha documentación puede encontrarse en el link de la página web del equipo y en la Wiki de este repositorio, respectivamente.
 
 Página web del equipo "Alpha": https://davidvillaseca.github.io/PDB-alpha/requerimientos.html
+
+## Equipo 
+
