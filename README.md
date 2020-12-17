@@ -12,6 +12,12 @@ El presente sistema consituye una herramienta que el personal de salud capacitad
 
 (logo) constituye el proyecto final del curso [Proyectos de Biodiseño 1](https://biodesign-project-1.github.io/) del Programa de Ingeniería Biomédica PUCP-UPCH.
 
+## Documentación
+
+El presente proyecto se elaboró siguiendo la metodología de Design Thinking para la definición del problema y VDI2225 para el prototipado del sistema. Dicha documentación puede encontrarse en el link de la página web del equipo y en la Wiki de este repositorio, respectivamente.
+
+Página web del equipo "Alpha": https://davidvillaseca.github.io/PDB-alpha/requerimientos.html
+
 ## ¿Cómo funciona Alpha2?
 
 (Funcionamiento del sistema - video - gif)
@@ -19,12 +25,6 @@ El presente sistema consituye una herramienta que el personal de salud capacitad
 (Resumen del funcionamiento en un esquema)
 
 (Esquema de funciones combinado)
-
-## Documentación
-
-El presente proyecto se elaboró siguiendo la metodología de Design Thinking para la definición del problema y VDI2225 para el prototipado del sistema. Dicha documentación puede encontrarse en el link de la página web del equipo y en la Wiki de este repositorio, respectivamente.
-
-Página web del equipo "Alpha": https://davidvillaseca.github.io/PDB-alpha/requerimientos.html
 
 ## Equipo 
 
