@@ -1,8 +1,8 @@
-(Aquí se encuentra el logo del equipo)
+
 
 ## Sistema de monitoreo de ejercicios no supervisados para pacientes post COVID-19
 
-(Aquí se encuentra una imagen del dispositivo final Poster? Infografía)
+
 
 Considerando la coyuntura del Perú a finales del 2020, con riesgo de una posible segunda ola de infecciones por COVID-19 y una fragilidad política que pone en peligro la distribución de los recursos necesarios (dinero y personal capacitado) hacia el sector salud, se hace evidente la necesidad de generar soluciones preventivas para aminorar el impacto del COVID-19 a futuro. Una de dichas consecuencias es el **síndrome post cuidados intensivos** causado por una estancia en UCI en casos de COVID-19. 
 
@@ -20,11 +20,7 @@ Página web del equipo "Alpha": https://davidvillaseca.github.io/PDB-alpha/reque
 
 ## ¿Cómo funciona Alpha2?
 
-(Funcionamiento del sistema - video - gif)
 
-(Resumen del funcionamiento en un esquema)
-
-(Esquema de funciones combinado)
 
 ## Equipo 
 
