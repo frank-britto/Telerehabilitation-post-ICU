@@ -6,11 +6,11 @@
 
 Considerando la coyuntura del Perú a finales del 2020, con riesgo de una posible segunda ola de infecciones por COVID-19 y una fragilidad política que pone en peligro la distribución de los recursos necesarios (dinero y personal capacitado) hacia el sector salud, se hace evidente la necesidad de generar soluciones preventivas para aminorar el impacto del COVID-19 a futuro. Una de dichas consecuencias es el **síndrome post cuidados intensivos** causado por una estancia en UCI en casos de COVID-19. 
 
-La pérdida de continuidad en la rehabilitación de los pacientes que salen de UCI aumenta el riesgo de su readmisión hospitalaria, saturando los servicios de salud que ya de por sí se encuentra trabajando al límite en casos de COVID-19. En este contexto, (logo del equipo) surge como una alternativa para el monitoreo remoto de los ejercicios no supervisados de los pacientes con antecedentes de estancia en UCI por COVID-19.
+La pérdida de continuidad en la rehabilitación de los pacientes que salen de UCI aumenta el riesgo de su readmisión hospitalaria, saturando los servicios de salud que ya de por sí se encuentra trabajando al límite en casos de COVID-19. En este contexto, Alpha2 surge como una alternativa para el monitoreo remoto de los ejercicios no supervisados de los pacientes con antecedentes de estancia en UCI por COVID-19.
 
-El presente sistema consituye una herramienta que el personal de salud capacitado puede recetar a sus pacientes como parte del programa de rehabilitación. El objetivo de (logo) es evitar la readmisión hospitalaria y, para ello, se basa en los componentes que hacen efectiva a la rehabilitación de manera presencial y los adapta hacia el entorno de casa, sin perder efectividad en el proceso.
+El presente sistema consituye una herramienta que el personal de salud capacitado puede recetar a sus pacientes como parte del programa de rehabilitación. El objetivo de Alpha2 es evitar la readmisión hospitalaria y, para ello, se basa en los componentes que hacen efectiva a la rehabilitación de manera presencial y los adapta hacia el entorno de casa, sin perder efectividad en el proceso.
 
-(logo) constituye el proyecto final del curso [Proyectos de Biodiseño 1](https://biodesign-project-1.github.io/) del Programa de Ingeniería Biomédica PUCP-UPCH.
+Alpha2 constituye el proyecto final del curso [Proyectos de Biodiseño 1](https://biodesign-project-1.github.io/) del Programa de Ingeniería Biomédica PUCP-UPCH.
 
 ## Documentación
 
@@ -20,7 +20,13 @@ Página web del equipo "Alpha": https://davidvillaseca.github.io/PDB-alpha/reque
 
 ## ¿Cómo funciona Alpha2?
 
+[![](http://img.youtube.com/vi/D554pFJmOYA/0.jpg)](http://www.youtube.com/watch?v=D554pFJmOYA "")
 
+## Equipo
 
-## Equipo 
+* Frank Britto Bisso
+* Claudia Montufar Leon
+* Victor Sosa Rocha
+* Samuel Borja Inga
+* David Villaseca Pacheco
 
