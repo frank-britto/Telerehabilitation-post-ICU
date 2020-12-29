@@ -1,0 +1,45 @@
+Utilizar la siguiente líneas de código en el archivo demo.py para obtener los siguiente resultados
+
+1.- Ejecutar el algoritmo y señalar las articulaciones en una imagen
+
+ruta_imagen = './images/bautista.jpg' # colocar la ruta de la imagen a utilizar
+img, hum = get_human_pose(ruta_imagen)
+joints = joint_keypoints(img, hum, color="white")
+
+2.- Ejecutar el algoritmo y plotear el esqueleto de colores en fondo negro
+
+image = common.read_imgfile('./images/bautista.jpg', None, None) # colocar la ruta de la imagen a utilizar
+humans = e.inference(image, resize_to_default=(w>0 and h>0), upsample_size=4.0)
+black = np.zeros(image.shape)
+esqueleto = TfPoseEstimator.draw_humans(black, humans, imgcopy=False)
+plt.figure(figsize=(15,8))
+plt.imshow(esqueleto)
+plt.grid()
+plt.axis('off')
+
+3.- Ejecutar el algoritmo en un video
+
+fps_time = 0
+ruta_video = './images/shoulder1.mp4'
+BG = True # Imagen + esqueleto
+video = cv2.VideoCapture(ruta_video)
+
+if video.isOpened() is False:
+    print('Error al abrir el video de la ruta %s' % ruta_video)
+    
+while True:
+    ok, image = video.read()
+
+    humans = e.inference(image, resize_to_default=(w > 0 and h > 0), upsample_size=4.0)
+    if not BG:
+        image = np.zeros(image.shape)
+    image = TfPoseEstimator.draw_humans(image, humans, imgcopy = False)
+
+    cv2.putText(image, "FPS: %f" % (1.0 / (time.time() - fps_time)), (10, 10),cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+    cv2.imshow('Captura de video', image)
+    fps_time = time.time()
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+video.release()
+cv2.destroyAllWindows()
