@@ -14,11 +14,11 @@ The presente system constitutes a tool that trained health personnel can prescri
 
 ## Documentation
 
-The present project constitutes the final assessment of the course [Project of Biodesign 1](https://biodesign-project-1.github.io/) of the undergraduate program of Biomedical Engineering PUCP-UPCH. It was elaborated following the Design Thinkinf methodology for the problem definition and the identification of needs, and the VDI 2225 methodology for the elaboratorion of the prototype.
+The present project constitutes the final assessment of the course [Project of Biodesign 1](https://biodesign-project-1.github.io/) of the undergraduate program of Biomedical Engineering PUCP-UPCH. It was elaborated following the Design Thinking methodology for the problem definition and the identification of needs, and the VDI 2225 methodology for the elaboratorion of the prototype.
 
 The complete project is accesible [here](https://drive.google.com/file/d/1GdP5p4xijpEvaxaEeUVG2hxxGXWcFWzO/view?usp=sharing) (document in Spanish), while the step-by-step process is available in the Wiki.
 
-**(new)** the final presentation of the project is now available [here](https://drive.google.com/file/d/1w8POKenkKT_Ahvm3m0wFyze537iTwExZ/view?usp=sharing)
+**(new)** the final presentation of the project is now available [here](https://drive.google.com/file/d/1w8POKenkKT_Ahvm3m0wFyze537iTwExZ/view?usp=sharing) (presentation in Spanish)
 
 ## Team members
 
