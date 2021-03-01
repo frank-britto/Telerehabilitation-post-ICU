@@ -1,8 +1,8 @@
-1.- Por limitaciones de almacenamiento, el repositorio completo ha sido almacenado en el siguiente enlace: https://drive.google.com/drive/folders/1NuM76ZKdgJ5pcXXsvBWL-9fMKBNRAe6o?usp=sharing
+1.- Due to storage limitations, the complete repository has been stored in the following link: https://drive.google.com/drive/folders/1NuM76ZKdgJ5pcXXsvBWL-9fMKBNRAe6o?usp=sharing
 
-2.- La presente carpeta contiene algunas imágenes para probar el algoritmo, así como algunos comentarios que pueden ser de utilidad en los archivos *code_auxiliar.txt* y *demo.py*
+2.- This folder contains some images to test the algorithm, as well as some comments that may be useful in the *code_auxiliar.txt* and *demo.py* files
 
-3.- Para el correcto funcionamiento del algoritmo, revisar la siguiente bibliografía:
+3.- For the correct operation of the algorithm, review the following bibliography:
 
 * https://github.com/ildoonet/tf-pose-estimation
 
