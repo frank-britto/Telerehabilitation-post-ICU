@@ -20,6 +20,8 @@ The complete project is accesible [here](https://drive.google.com/file/d/1GdP5p4
 
 **(new)** the final presentation of the project is now available [here](https://drive.google.com/file/d/1w8POKenkKT_Ahvm3m0wFyze537iTwExZ/view?usp=sharing) (presentation in Spanish)
 
+**(new)** Future Research and last updates are available in the Wiki
+
 ## Team members
 
 * Frank Britto Bisso, project coordinator and developer of the AI module
