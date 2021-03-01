@@ -20,7 +20,7 @@ The complete project is accesible [here](https://drive.google.com/file/d/1GdP5p4
 
 **(new)** the final presentation of the project is now available [here](https://drive.google.com/file/d/1w8POKenkKT_Ahvm3m0wFyze537iTwExZ/view?usp=sharing) (presentation in Spanish)
 
-**(new)** Future Research and last updates, aimed for the IEEE HAC/ SIGHT Projects Call for Proposals Focused on COVID-19 Response, are available in the Wiki
+**(new)** Future Research and last updates, aimed for the IEEE HAC/ SIGHT Projects Call for Proposals Focused on COVID-19 Response, are available in the [Wiki](https://github.com/frank-britto/PDB1_Grupo08/wiki/Call-for-Proposals-Focused-on-COVID-19-Response)
 
 ## Team members
 
