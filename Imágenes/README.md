@@ -1,1 +1,1 @@
-Esta carpeta contiene las imágenes de la Wiki del proyecto
+This folder contains the images of the project´s Wiki
