@@ -1,3 +1,3 @@
-* El mock up interactivo necesita de la aplicación Adobe XD para poder visualizarlos. Puede descargarse del siguiente enlace: https://www.adobe.com/products/xd.html
-* El mock up de la aplicación del paciente y el médico también puede encontrarse en formato pdf
-* Para probar la aplicación móvil, descargar la apk
+* The interactive mock up requires the Adobe XD application to view them. It can be downloaded from the following link: https://www.adobe.com/products/xd.html
+* The mock up of the patient and doctor application can also be found in pdf format
+* To test our mobile application, download the apk
